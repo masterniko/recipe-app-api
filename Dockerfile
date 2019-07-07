@@ -1,5 +1,5 @@
 FROM python:3.7
-MAINTAINER masterniko
+LABEL key="masterniko"
 
 ENV PYTHONUNBUFFERED 1
 
